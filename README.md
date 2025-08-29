@@ -2,15 +2,15 @@
 
 ## How do I install these formulae?
 
-`brew install rrwright/xor/<formula>`
+`brew install rrwright/xor/xor`
 
-Or `brew tap rrwright/xor` and then `brew install <formula>`.
+Or `brew tap rrwright/xor` and then `brew install xor`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "rrwright/xor"
-brew "<formula>"
+brew "xor"
 ```
 
 ## Documentation
